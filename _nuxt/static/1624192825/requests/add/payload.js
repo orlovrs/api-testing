@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/requests/add", (function(a){return {data:[{}],fetch:{},mutations:[["request\u002FsetMethod",a],["request\u002FsetEndpoint",a],["request\u002FsetHeaders",[]],["request\u002FsetBody",a]]}}(null)));
